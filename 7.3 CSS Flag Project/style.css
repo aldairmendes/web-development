@@ -1,0 +1,13 @@
+.flag{
+	width: 500px;
+	height: 300px;
+	background-color: red;
+	text-align: center;
+}
+.flag > p{
+	color: white;
+}
+.flag > div > div{
+	position: relative;
+	background-color: blueviolet;
+}
